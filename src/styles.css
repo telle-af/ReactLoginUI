@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: #212f3c;
+  border: 10px solid black;
+  background-color: #ccd1d1;
+  padding-bottom: 30px;
+}
+
+.field {
+  display: block;
+  margin-bottom: 5px;
+}
+
+label {
+  font-weight: 600;
+  color: #566573;
+  margin-right: 10px;
+}
+
+button {
+  background-color: #212f3c;
+  color: whitesmoke;
+  margin-top: 20px;
+}
